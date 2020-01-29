@@ -1,1 +1,1 @@
-# cost_of_living
+# Cost_of_living
